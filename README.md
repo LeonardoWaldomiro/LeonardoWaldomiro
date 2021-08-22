@@ -28,9 +28,7 @@
 
 ##
 
-<div><br>
 <img src="https://readme-jokes.vercel.app/api?&theme=tokyonight" alt="Jokes Card"/>
-</div>
 
 ##
 <h1> Contact 👇 <br><br>
