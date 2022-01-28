@@ -4,7 +4,7 @@
 - 🖐️ Hi, i’m Leonardo, also know just as Leo. I’m 21 years old computer science student from Brazil.<br>
 - 👀 Here you can see part of my contributions, projects and knowledge.<br>
 - 🌱 I’m currently learning JS and Web Java App's/Pages.<br>
-- 🎓 Btw I can help anyone who needs lessons in programming logic, java, python, math and any other college subject. <br>
+- 🎓 Btw I can help anyone with programming logic, java, python, math and any other college subject, just give a chat. <br>
 - 📱  Give a check on my social medias and feel free to contact me anywhere, links are bellow.<br>
 </div>
 <div><br>
