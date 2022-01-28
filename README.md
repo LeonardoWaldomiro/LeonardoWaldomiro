@@ -1,7 +1,7 @@
 <h1>Olá! Hi! <img height="60" width="60" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-awesome-gif.gif"></h1>
 
 <div>
-- 🖐️ Hi, i’m Leonardo, also know just as Leo. I’m 21 years old computer science student from Brazil.<br>
+- 🖐️ Hi, name is Leonardo, for better just call me Leo. I’m 21 years old computer science student from Brazil.<br>
 - 👀 Here you can see part of my contributions, projects and knowledge.<br>
 - 🌱 I’m currently learning JS and Web Java App's/Pages.<br>
 - 🎓 Btw I can help anyone with programming logic, java, python, math and any other college subject, just give a chat. <br>
