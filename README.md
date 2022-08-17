@@ -8,10 +8,10 @@
 - 📱  Give a check on my social medias and feel free to contact me anywhere, links are bellow.<br>
 </div>
 <div><br>
-- 🖐️ Olá, meu nome é Leonardo mas prefiro que me chamem de Leo. Tenho 21 anos e curso Ciência da Computação.<br>
+- 🖐️ Olá, meu nome é Leonardo mas prefiro que me chamem de Leo. Tenho 22 anos e estudo Ciência da Computação.<br>
 - 👀 Neste repositório você pode checar parte dos meus projetos, contribuições e conhecimentos. <br>
-- 🌱 Atualmente estou estudando JS e Aplicações Java Web. <br>
-- 🎓 Posso ajudar qualquer um que precisar de alguma aula ou reforço com matemática, lógica de programação, java, python, banco de dados, estrutura de dados etc. <br>
+- 🌱 Atualmente estudo e trabalho com desenvolvimento Azure Cloud, utilizando tecnologias como ASP.NET, .NET, .NETCore, C#, Windows Services, MVC, WEBAPI e WCF.. <br>
+- 🎓 Posso ajudar qualquer um que precisar de alguma aula com tópicos de TI do ensino superior como lógica de programação, java, python, banco de dados, estrutura de dados etc. <br>
 - 📱 Minhas redes sociais estão logo abaixo, sinta-se livre para entrar em contato.<br>
 </div>
 
