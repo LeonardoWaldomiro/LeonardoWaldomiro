@@ -1,4 +1,4 @@
-<h1>Olá! Hi! <img height="60" width="60" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-awesome-gif.gif"></h1>
+<h1>Hello! Oi! <img height="60" width="60" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-awesome-gif.gif"></h1>
 <div><br>
 - 🖐️ Olá, meu nome é Leo, tinha 22 anos quando criei esse repositório. Atualmente trabalho como dev pleno na Serasa, mexo com algumas tecnologias aí e sei uma coisinha ou outra.<br>
 </div>
@@ -12,6 +12,7 @@
 <a href= ""><img src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white></a>
 <a href= ""><img src=https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white></a>
 <a href= ""><img src=https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white></a>
+<a href= ""><img src=https://img.shields.io/badge/SQLServer-2C2255?style=for-the-badge&logo=sqlserver&logoColor=white></a>
 </div>
 
 ##
